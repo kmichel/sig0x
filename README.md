@@ -3,8 +3,8 @@ A typesafe callback system for standard C++0x - a bit like libsigc++
 
 [Libsigc++](http://libsigc.sourceforge.net/) has much more features,
 such as non-void return types, marshallers and trackable base class for
-automatic disconnection. Sig0x is less 300loc, probably faster to parse and
-compile, and mostly just an experiment :)
+automatic disconnection. Sig0x has less than 300loc, is probably faster to parse
+and compile, and mostly just an experiment :)
 
 ## Usage
 
